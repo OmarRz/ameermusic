@@ -1,6 +1,6 @@
-token=«· Êﬂ‰ 
-owner=«œÌ » ⁄ﬂ 
-prefix= 1
-game= 1help
+token=NTI4OTU1MjE3MTYxNDg2MzQ2.Dwp0Pg.VMp9WIS-DDHz_boOCRKpaWnAVfg
+owner=510900829063217174
+prefix= s
+game= Shelp
 stayinchannel=true
 songinstatus=true 
