@@ -1,4 +1,4 @@
-token=NTI4OTU1MjE3MTYxNDg2MzQ2.Dwp0Pg.VMp9WIS-DDHz_boOCRKpaWnAVfg
+token=NTc5MDc2OTg1NTMyMzE3NzE3.XN85gg.EcpKsx9Dspw7-2Td9N84ZsKHhJo
 owner=510900829063217174
 prefix= s
 game= Shelp
