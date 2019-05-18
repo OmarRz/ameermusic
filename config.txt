@@ -1,5 +1,5 @@
 token=NTc5MDc2OTg1NTMyMzE3NzE3.XN85gg.EcpKsx9Dspw7-2Td9N84ZsKHhJo
-owner=510900829063217174
+owner=500351379865468930
 prefix= s
 game= Shelp
 stayinchannel=true
